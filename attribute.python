@@ -1,0 +1,7 @@
+import numpy as numpy
+Lst=([[1,2,3],[4,5,6]])
+a=np.array(lst)
+print(a.ndim)
+print(a.shape)
+print(a.size)
+print(a.type)
